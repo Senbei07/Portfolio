@@ -13,8 +13,7 @@
 **คำอธิบาย:** โปรเจกต์นี้เป็นการพัฒนาเว็บแอปพลิเคชั่นที่เกี่ยวกับร้านอาหาร มีฟังก์ชันสำรับการสั่งอาหาร การติดตามออเดอร์ การจัดการรายละเอียดเว็บต่าง ๆ
 
 **พัฒนาโดยใช้:** HTML, CSS, JS, EJS, Node.js, Express, Socket.io, MySQL
-* [ดูโค้ดบางส่วนบน GitHub](https://github.com/your-username/project-1-repo)
-![Screenshot Project 1](https://your-image-url/project1-screenshot.png)
+* [ดูโค้ดบางส่วนบน GitHub](https://github.com/Senbei07/restaurant)
 
 ---
 
@@ -22,8 +21,7 @@
 **คำอธิบาย:** โปรเจกต์นี้เป็นการพัฒนาเว็บแอปพลิเคชั่นที่เกี่ยวกับการให้บริการทางการแพทย์สำหรับ clinic โดยมีฟังก์ชันการบันทึกประวัติผู้ป่วย ญาติผู้ป่วย ประวัติการรักษา และการจัดการระบบสำหรับผู้ดูแลระบบ
 
 **พัฒนาโดยใช้:** PHP, HTML, CSS, JS, MySQL 
-* [ดูโค้ดบางส่วนบน GitHub](https://github.com/your-username/project-2-repo)
-![GIF Project 2](https://your-image-url/project2-gif.gif)
+* [ดูโค้ดบางส่วนบน GitHub](https://github.com/Senbei07/clinic)
 
 ---
 
@@ -31,7 +29,7 @@
 **คำอธิบาย:** โปรเจกต์นี้เป็นการพัฒนาเว็บแอปพลิเคชั่นที่เกี่ยวกับแนะนำอาชีพที่เหมาะสมของผู้ใช้แต่ละคน โดยผ่านการทำแบบวัดบุคลิกภาพทางอาชีพ(SDS) และแบบวัดพหุปัญญา(MI) โดยการนำผลของแบบวัดทั้งสองมาประมวลผลร่วมกันเพื่อให้ได้ผลลัพท์ที่มีความแม่นยำ
 
 **พัฒนาโดยใช้:** PHP, HTML, CSS, JS, MySQL
-* [ดูโค้ดบางส่วนบน GitHub](https://github.com/your-username/project-3-repo)
+* [ดูโค้ดบางส่วนบน GitHub](https://github.com/Senbei07/SDS_MI)
 
 ---
 
@@ -39,7 +37,7 @@
 **คำอธิบาย:** โปรเจกต์นี้เป็นการพัฒนาเว็บแอปพลิเคชั่นที่เกี่ยวกับการทำแบบวัดความฉบลาดทางอารมณณ EQ โดยมีฟังก์ชันในการทำแบบวัด และการประมวลผล
 
 **พัฒนาโดยใช้:**  PHP, HTML, CSS, JS, MySQL 
-* [ดูโค้ดบางส่วนบน GitHub](https://github.com/your-username/project-3-repo)
+* [ดูโค้ดบางส่วนบน GitHub](https://github.com/Senbei07/EQ)
 
 ---
 
@@ -47,7 +45,7 @@
 **คำอธิบาย:** โปรเจกต์นี้เป็นการพัฒนาเว็บแอปพลิเคชั่นที่เกี่ยวกับการสำรวจความสัมพันธ์ของนักเรียนในชั้นเรียน ผ่านการทำแบบสำรวจสังคมมิติ ทางจิตวิทยา โดยมีฟังก์ชันในการ สร้างแบบสำรวจ ทำแบบสำรวจ การประมวลผล และแสดงผลในรูปแบบของข้อความ และกราฟ
 
 **พัฒนาโดยใช้:** HTML, CSS, JS, Node.js, Express.js, Socket.io, React.js, MySQL
-* [ดูโค้ดบางส่วนบน GitHub](https://github.com/your-username/project-3-repo)
+* [ดูโค้ดบางส่วนบน GitHub](https://github.com/Senbei07/Sociometry_project)
 
 ---
 
